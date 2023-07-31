@@ -13,3 +13,5 @@ pip3 install -r requirements.txt
 ```shell
 python3 main.py
 ```
+
+> Visit `http://localhost:8000/home` to view the site.
